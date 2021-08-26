@@ -1,9 +1,6 @@
 ## Olá, meu nome é Brenno!
-- 🔭 Trabalhando atualmente com React 
-- 📕 Estudando next.js, typescript e nodeJs 
-- 💼 Atualmente estagiando front-end 
-- 📞 Email de contato:brennorassis@gmail.com
-
+- 🔭 Trabalhando atualmente com React |📕 Estudando next.js, typescript e nodeJs | 💼 Atualmente estagiando front-end | 📞 Email de contato:brennorassis@gmail.com
+##
   <div>
    <a href="https://github.com/brenno0">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenno0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
