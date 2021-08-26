@@ -11,16 +11,15 @@
    <img align="center" alt="Brenno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Brenno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="Brenno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Brenno-HTML" height="40" width="40" src="https://user-images.githubusercontent.com/80965212/131017927-d79d5e6a-270f-4edc-9eba-5a9fa74276af.png">
-   <img align="center" alt="Brenno-CSS" height="35" width="40" src="https://user-images.githubusercontent.com/80965212/131018312-cb80e1bd-2c66-4ca7-b68f-727e0e49c40e.png">
-   <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/80965212/131006663-e26957eb-1e0c-47bc-b18a-d59fbf1acd00.png" alt="Brenno-next">
+  <img align="center" alt="Brenno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Brenno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" width="60" height="60" alt="Brenno-nextJs" src="https://user-images.githubusercontent.com/80965212/131028100-504d07d0-7db3-48ef-b576-2a3cbc14aa57.png">
    <img align="center" height="35" width="35" src="https://user-images.githubusercontent.com/80965212/131017558-c36fc751-8b73-4ab1-ae47-a8d0fec94aa7.png" alt="Brenno-scss">
-    <img align="right" width="200"   height="100" alt="dev" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
  </div>
  
   ##
   
 <div> 
-    <a href = "mailto:brennorassis@gmail.com"><img  height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:brennorassis@gmail.com"><img  height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href =  "https://www.linkedin.com/in/brenno-rodrigues-de-assis-5006961b7/" target="_blank"><img  height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
