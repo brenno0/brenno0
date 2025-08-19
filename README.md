@@ -53,5 +53,5 @@ Tecnologias: React.js, Chart.js, Node.js
 ---
 
 ## 📬 Contato
-- Email: seuemail@gmail.com  
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seulinkedin)
+- Email: brennorassis@gmail.com  
+- LinkedIn: [Meu perfil]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/brennorodriguesassis/)])
