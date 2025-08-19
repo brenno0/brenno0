@@ -1,36 +1,48 @@
-# Olá, eu sou o Brenno 👋
+# Olá! Eu sou o Brenno 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brenno-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seulinkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-Brenno-black?style=flat-square&logo=github)](https://github.com/seuusuario)
-
----
-
-## Sobre mim
-Sou desenvolvedor **Front-end / Fullstack** com foco em **React.js, Next.js e Angular**. Apaixonado por criar interfaces bonitas e funcionais, além de resolver problemas complexos de back-end.
-
-- 💻 Tecnologias que uso: React.js, Next.js, Angular, Node.js, Java, Spring, .NET  
-- 🎨 Interesses: UX/UI, design de interfaces, experiências digitais  
-- 📚 Sempre aprendendo: novas linguagens, frameworks e boas práticas de desenvolvimento  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brenno-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seulinkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-Brenno-black?style=for-the-badge&logo=github)](https://github.com/seuusuario)
 
 ---
 
-## 🚀 Habilidades
+## 🌟 Sobre mim
+Desenvolvedor **Front-end / Fullstack**, apaixonado por criar **interfaces modernas e funcionais**. Sempre em busca de **aprender novas tecnologias** e resolver problemas desafiadores.
 
-| Front-end | Back-end | DevOps & DB |
-|-----------|----------|-------------|
-| React.js, Next.js, Angular | Node.js, Java, .NET | Docker, AWS, PostgreSQL, MongoDB |
-| TypeScript, JavaScript | Spring Boot, Express | Git, CI/CD, Prisma |
+- 💻 Tecnologias: React.js, Next.js, Angular, Node.js, Java, Spring  
+- 🎨 Interesses: UX/UI, Design de interfaces, Experiências digitais  
+- 📚 Sempre aprendendo: boas práticas, novas linguagens e frameworks  
 
 ---
 
-## 📂 Projetos Recentes
+## ⚡ Tecnologias & Skills
+
+### Front-end
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Banco de Dados & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📂 Projetos em destaque
 
 ### [Projeto 1](https://github.com/seuusuario/projeto1)  
-Descrição curta: Aplicação web com Next.js e integração com API externa.  
+🚀 Aplicação web interativa com Next.js  
+![Demo Projeto 1](https://media.giphy.com/media/26xBukhQyNL2bMJgY/giphy.gif)  
 Tecnologias: Next.js, TypeScript, Tailwind CSS
 
 ### [Projeto 2](https://github.com/seuusuario/projeto2)  
-Descrição curta: Dashboard de dados com gráficos interativos.  
+📊 Dashboard de dados dinâmico  
+![Demo Projeto 2](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
 Tecnologias: React.js, Chart.js, Node.js
 
 ---
@@ -40,6 +52,6 @@ Tecnologias: React.js, Chart.js, Node.js
 
 ---
 
-## 🎯 Contato
+## 📬 Contato
 - Email: seuemail@gmail.com  
 - LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seulinkedin)
