@@ -1,30 +1,45 @@
-## Olá, meu nome é Brenno!
- 🔭 Trabalhando atualmente com Reactjs |  📕 Estudando nodeJs |  💼 Atualmente desenvolvedor front-end pleno |  📞  Email de contato:brennorassis@gmail.com
-##
-  <div>
-   <a href="https://github.com/brenno0">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenno0&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno0&layout=compact&langs_count=7&theme=jolly"/>
- </div>
-  
-  <div style="display: inline_block"><br>
-   <img align="center" alt="Brenno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Brenno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Brenno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Brenno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Brenno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" width="60" height="60" alt="Brenno-nextJs" src="https://user-images.githubusercontent.com/80965212/131028100-504d07d0-7db3-48ef-b576-2a3cbc14aa57.png">
-   <img align="center" height="35" width="35" src="https://user-images.githubusercontent.com/80965212/131017558-c36fc751-8b73-4ab1-ae47-a8d0fec94aa7.png" alt="Brenno-scss">
- </div>
- 
-  ##
-  
-<div> 
-    <a href = "mailto:brennorassis@gmail.com"><img  height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href =  "https://www.linkedin.com/in/brenno-rodrigues-de-assis-5006961b7/" target="_blank"><img  height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/brenno236/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div>
- 
- ##
- 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+# Olá, eu sou o Brenno 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brenno-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seulinkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-Brenno-black?style=flat-square&logo=github)](https://github.com/seuusuario)
+
+---
+
+## Sobre mim
+Sou desenvolvedor **Front-end / Fullstack** com foco em **React.js, Next.js e Angular**. Apaixonado por criar interfaces bonitas e funcionais, além de resolver problemas complexos de back-end.
+
+- 💻 Tecnologias que uso: React.js, Next.js, Angular, Node.js, Java, Spring, .NET  
+- 🎨 Interesses: UX/UI, design de interfaces, experiências digitais  
+- 📚 Sempre aprendendo: novas linguagens, frameworks e boas práticas de desenvolvimento  
+
+---
+
+## 🚀 Habilidades
+
+| Front-end | Back-end | DevOps & DB |
+|-----------|----------|-------------|
+| React.js, Next.js, Angular | Node.js, Java, .NET | Docker, AWS, PostgreSQL, MongoDB |
+| TypeScript, JavaScript | Spring Boot, Express | Git, CI/CD, Prisma |
+
+---
+
+## 📂 Projetos Recentes
+
+### [Projeto 1](https://github.com/seuusuario/projeto1)  
+Descrição curta: Aplicação web com Next.js e integração com API externa.  
+Tecnologias: Next.js, TypeScript, Tailwind CSS
+
+### [Projeto 2](https://github.com/seuusuario/projeto2)  
+Descrição curta: Dashboard de dados com gráficos interativos.  
+Tecnologias: React.js, Chart.js, Node.js
+
+---
+
+## 📈 Estatísticas do GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+
+---
+
+## 🎯 Contato
+- Email: seuemail@gmail.com  
+- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seulinkedin)
