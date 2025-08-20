@@ -37,8 +37,8 @@ Desenvolvedor **Front-end / Fullstack**, apaixonado por criar **interfaces moder
 
 ### [Projeto 1](https://github.com/seuusuario/projeto1)  
 🚀 Aplicação web interativa com Next.js  
-![Demo Projeto 1](https://media.giphy.com/media/26xBukhQyNL2bMJgY/giphy.gif)  
-Tecnologias: Next.js, TypeScript, Tailwind CSS
+<img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/d97ac83e-44c0-4846-97cc-d6a44ac391b1" />
+Tecnologias: Reactjs,Vite, huskym, TypeScript, Tailwind CSS, shadcn, tanstack-query, axios, vitest, tanstack-router
 
 ### [Projeto 2](https://github.com/seuusuario/projeto2)  
 📊 Dashboard de dados dinâmico  
