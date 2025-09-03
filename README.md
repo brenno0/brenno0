@@ -53,5 +53,5 @@ Tecnologias: React.js, Chart.js, Node.js
 ---
 
 ## 📬 Contato
-- Email: brennorassis@gmail.com  
+- Email: contato.brennorodrigues@gmail.com
 - **LinkedIn:** [Brenno Rodrigues](https://www.linkedin.com/in/brennorodriguesassis/)
